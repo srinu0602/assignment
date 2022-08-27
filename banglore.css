@@ -1,0 +1,36 @@
+h1{
+    background-color: rgb(23, 160, 190);
+    text-align:center;
+    padding:10px;
+    margin:5px;
+    color:rgb(184, 51, 44);
+    font-size:3.5rem;
+    border-radius:10px;
+    box-shadow: 0px 0px 20px rgb(209, 101, 87);
+}
+    
+body{
+    background-image:url(./img-1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.p1
+{
+    float: left;
+}
+
+.p2{
+    display: block;
+    margin: auto;
+}
+
+.p3{
+    float: right;
+}
+
+.h4{
+    font-size: 1.5rem;
+    color: rgb(117, 31, 23);
+}
